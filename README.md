@@ -1,3 +1,2 @@
-IST4320
-
+# IST4320
 This is for IST 4320 class.
